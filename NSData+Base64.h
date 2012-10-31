@@ -22,6 +22,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "hide_symbols_cocoa_oauth.h"
 
 void *NewBase64Decode(
 	const char *inputBuffer,

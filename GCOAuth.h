@@ -30,6 +30,7 @@
 */
 
 #import <Foundation/Foundation.h>
+#import "hide_symbols_cocoa_oauth.h"
 
 /*
  This OAuth implementation doesn't cover the whole spec (eg. it’s HMAC only).
